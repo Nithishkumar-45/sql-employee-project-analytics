@@ -44,3 +44,7 @@ This SQL project analyzes employee, department, and project-assignment data. It 
 ## Resume Description
 
 Built an SQL employee and project analytics project using joins, aggregations, correlated subqueries, CTEs, and window functions to analyze departmental salary costs, workforce allocation, and project staffing.
+
+## Tableau Dashboard
+
+![Employee & Project Analytics Dashboard](dashboard.png)
