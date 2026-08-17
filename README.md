@@ -39,7 +39,7 @@ This SQL project analyzes employee, department, and project-assignment data. It 
 
 - MySQL Workbench
 - MySQL
-- Tableau (planned dashboard)
+- Tableau (dashboard)
 
 ## Resume Description
 
