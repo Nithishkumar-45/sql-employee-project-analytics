@@ -1,0 +1,9 @@
+emp_id,emp_name,gender,age,salary,hire_date,dept_id,manager_id
+101,Arun,Male,25,45000,2022-06-15,1,NULL
+102,Priya,Female,28,60000,2021-03-20,1,101
+103,Karthik,Male,30,75000,2020-01-10,3,NULL
+104,Divya,Female,26,50000,2023-05-18,2,103
+105,Rahul,Male,35,90000,2018-08-25,1,NULL
+106,Sneha,Female,29,65000,2021-11-12,4,105
+107,Vijay,Male,32,55000,2019-09-30,5,NULL
+108,Anitha,Female,27,48000,2022-12-05,2,104
