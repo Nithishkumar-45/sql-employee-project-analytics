@@ -52,7 +52,6 @@ Built an SQL employee and project analytics project using joins, aggregations, c
 
 ## Live Dashboard
 
-[![Employee HR Analytics Dashboard](data/dashboard.png)](https://public.tableau.com/app/profile/nithish.kumar1626/viz/employeehranalytics/empandhrdashboard?publish=yes)
 
 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/nithish.kumar1626/viz/employeehranalytics/empandhrdashboard?publish=yes)**
 
