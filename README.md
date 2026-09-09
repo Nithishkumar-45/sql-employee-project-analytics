@@ -49,4 +49,4 @@ Built an SQL employee and project analytics project using joins, aggregations, c
 
 ## Tableau Dashboard
 
-![Employee & Project Analytics Dashboard](dashboard.png)
+![Employee & Project Analytics Dashboard]([data/dashboard.png]))
