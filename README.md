@@ -32,8 +32,10 @@ This SQL project analyzes employee, department, and project-assignment data. It 
 ## Project Files
 
 - `sql/portfolio_queries.sql` — seven portfolio SQL analysis queries
-- `data/department_summary.csv` — department headcount and salary summary
-- `data/project_staffing.csv` — employee assignments per project
+- `department.csv` — details of department table that created 
+- `employees.csv` — employee assignments
+- `employeeprojects.csv` - project insights and details
+- `projects.csv` - projects by employees
 
 ## Tools Used
 
