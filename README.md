@@ -1,4 +1,4 @@
-# Employee & Project Analytics | SQL Portfolio Project
+# Employee & Project Analytics | SQL | tableau | Portfolio Project
 
 ## Overview
 
