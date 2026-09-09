@@ -51,4 +51,4 @@ Built an SQL employee and project analytics project using joins, aggregations, c
 
 ## Dashboard
 
-![Employee Analytics Dashboard](dashboard.png)
+![Employee Analytics Dashboard](https://github.com/Nithishkumar-45/sql-employee-project-analytics/blob/3fbcdfc6d41343f36b6675426932c59d33f8f583/data/dashboard%20%20.png)
